@@ -1,1 +1,2 @@
 # Field-data-for-macroscopic-traffic-flow-model
+Field data collected from a segment of Interstate Freeway I-15 in Utah. The dataset includes measurements of mileage (mile) and elapsed time (min) as input variables ($\mathbf{X}$) and flow (veh/5min) and average speed (mph) as output variables (\mathbf{Y}). The data was collected between August 5, 2019, and August 19, 2019, with 288 observations per detector per day.
